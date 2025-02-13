@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: health-eta-container
-        image: astitva911/astitva911/application-health_care:latest
+        image: astitva911/application-health_care:latest
         ports:
         - containerPort: 8082
 ---
