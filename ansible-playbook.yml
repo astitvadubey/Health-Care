@@ -1,4 +1,4 @@
-# deploy.yaml
+# ansible-playbook.yml
 ---
 - name: Deploy to Kubernetes master
   hosts: kubernetes_master
